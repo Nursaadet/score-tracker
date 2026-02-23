@@ -5,7 +5,7 @@ Score Tracker is a simple two-player score tracking application. Players can inc
 ## 🚀 Demo
 
 ### 🎬 Application Preview
-<img src="./project.gif" width="400" alt="Score Tracker Demo" />
+<img src="./myProject.gif" width="400" alt="Score Tracker Demo" />
 
 ### 🌐 Live Demo
 👉 https://nursaadet.github.io/score-tracker/
